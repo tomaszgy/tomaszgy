@@ -2,7 +2,7 @@
 
 **Staff-level ML Engineer** with 12 years of experience across Knowledge Graphs, Proteomics, and Generative Biology.
 
-I build end-to-end discovery platforms for high-dimensional biological data. My focus is on **engineering velocity:** replacing manual experiment setups with automated benchmarking and scalable infrastructure to turn raw data into high-confidence research hypotheses.
+I build end-to-end discovery platforms for high-dimensional biological data. My focus is on **architecting the end-to-end framework** —from initial hypothesis modeling to production-grade discovery engines—ensuring that high-scale biological insights remain both reproducible and biologically consistent.
 
 ### 🛠 Technical Expertise
 - **GenBio & scRNA-seq:** Scaling and benchmarking Foundation Models (**scGPT**, **Geneformer**) for cell-type annotation and gene perturbation.
@@ -19,4 +19,4 @@ I build end-to-end discovery platforms for high-dimensional biological data. My 
 ### 🌐 Open Source & Leadership
  - **Contributor:** edx-platform (Python/Django) – contributed to infrastructure serving millions of learners globally.
  - **CERN Alumnus:** Designed large-scale bibliometric and citation graphs using Neo4j.
- - **Remote-First Engineering:** Over a decade of experience in distributed environments. I build "self-serve" infrastructure and automated guardrails that ensure high engineering standards without the need for constant supervision.
+ - **Remote-First Engineering:** Over a decade of experience in distributed teams. I specialize in co-designing automated discovery workflows that enable rapid scientific iteration while maintaining the rigorous data integrity required for therapeutic discovery.
